@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Inacio
 - 🖥️ I'm a computer science student
-- 👀 I’m interested in NLP
-- 🌱 I’m currently studying cybersecurity
+- 👀 I’m interested in NLP, Web development and cybersecurity
 <div align="center">
   <a href="https://github.com/inacio88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inacio88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
